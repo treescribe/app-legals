@@ -139,7 +139,7 @@ Provider's service is available in the European Union, so Provider takes steps t
 
 | Activity | Lawful basis | GDPR reference
 |----------|--------------|-------------
-|Collection, use and disclosure of Users' information as described by this privacy policy |  Necessary in order to provide the Service in accordance with the Service [terms](https://github.com/treescriber/app-legals/blob/master/terms.md) |Art 6(1)(b)
+|Collection, use and disclosure of Users' information as described by this privacy policy |  Necessary in order to provide the Service in accordance with the Service [terms](https://github.com/treescribe/app-legals/blob/master/terms.md) |Art 6(1)(b)
 | Mailing list | User consent | Art 6(1)(a)
 | International disclosures / processing | User consent | Art 6(1)(a)
 | Handling Personal Information of non-users whose details are included in agreements created by Users | Necessary in order to protect Users' vital interests in having effective contracts | Art 6(1)(d)

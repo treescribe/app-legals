@@ -1,2 +1,2 @@
 # app-legals
-Legal documents for treescriber.com
+Legal documents for treescribe.com

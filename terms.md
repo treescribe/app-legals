@@ -591,7 +591,7 @@ means the personal information of individuals as defined by the privacy laws of 
 means any content or information posted by Customer that is available to third parties.
 
 ### Privacy Policy
-means Provider's privacy policy published at https://github.com/treescriber/app-legals.
+means Provider's privacy policy published at https://github.com/treescribe/app-legals.
 
 ### Product IP
 means the Intellectual Property in the Service.
