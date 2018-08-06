@@ -1,6 +1,6 @@
 # Privacy Policy
 
-*Treescriber Privacy Policy - 4 August 2018*
+*Treescribe Privacy Policy - 4 August 2018*
 
 **Capitalised words and phrases are defined in the section of the document entitled "Definitions".**
 

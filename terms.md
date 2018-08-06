@@ -1,12 +1,12 @@
 # SaaS Agreement
 
-*Treescriber SaaS Agreement - 6 August 2018*
+*Treescribe SaaS Agreement - 6 August 2018*
 
 **Capitalised words and phrases are defined in the section of the document entitled "Definitions".**
 
 **Provider** means Informatio Pty Ltd (ACN 162 135 864) of New South Wales, Australia, contactable on pat@codepact.com
 
-**Customer** means you or the entity that you are contracting for as authorised representative, contactable on the email used to register with the product at Treescriber.com
+**Customer** means you or the entity that you are contracting for as authorised representative, contactable on the email used to register with the product at Treescribe.com
 
 ## 1. Supply of services
 
@@ -615,7 +615,7 @@ means the party or parties identified in the Provision as owing Confidentiality 
 means the party that receives Confidential Information from the Disclosing Party.
 
 ### Service, Services
-means "Treescriber", the web-based application for creating legal agreements, provided by Provider.
+means "Treescribe", the web-based application for creating legal agreements, provided by Provider.
 
 ### Term, Terms
 means a time period of 1 month.

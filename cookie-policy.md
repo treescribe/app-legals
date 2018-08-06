@@ -2,7 +2,7 @@ You may be able to disable or delete cookies and other types of browser storage 
 
 We use local device storage in the following ways:
 
-- (**sign-up / sign-in**) recognising when you’ve registered or signed into the Treescriber app;
+- (**sign-up / sign-in**) recognising when you’ve registered or signed into the Treescribe app;
 - (**document signing**) recognising when you have the right to sign a document via a token from an email invite;
 - (**document state**) keeping track of the selections that you've made in a legal document;
 - (**user interface**) switching on and off elements of the interface depending on the activity of our users; and
