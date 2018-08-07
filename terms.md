@@ -4,7 +4,7 @@
 
 **Capitalised words and phrases are defined in the section of the document entitled "Definitions".**
 
-**Provider** means Informatio Pty Ltd (ACN 162 135 864) of New South Wales, Australia, contactable on pat@codepact.com
+**Provider** means Informatio Pty Ltd (ACN 162 135 864) of New South Wales, Australia, contactable on pat@treescribe.com
 
 **Customer** means you or the entity that you are contracting for as authorised representative, contactable on the email used to register with the product at Treescribe.com
 

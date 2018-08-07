@@ -4,7 +4,7 @@
 
 **Capitalised words and phrases are defined in the section of the document entitled "Definitions".**
 
-**Provider** means Informatio Pty Ltd (ACN 162 135 864) of New South Wales, Australia, contactable on pat@codepact.com
+**Provider** means Informatio Pty Ltd (ACN 162 135 864) of New South Wales, Australia, contactable on pat@treescribe.com
 
 **Individual** means individuals using the Services
 
@@ -106,7 +106,7 @@ Provider will make a good faith effort to ensure that international recipients d
 
 ## 9. Privacy contact
 
-Questions or complaints from Individuals relating to Provider's use of Personal Information should be directed to Provider's privacy officer, contactable via email at pat@codepact.com.
+Questions or complaints from Individuals relating to Provider's use of Personal Information should be directed to Provider's privacy officer, contactable via email at pat@treescribe.com.
 
 When Individuals communicate a complaint to Provider, Provider will respond within 10 days, and seek to resolve the complaint entirely within 3 weeks if the nature of the complaint permits it.
 
@@ -152,7 +152,7 @@ Provider's service is available in the European Union, so Provider takes steps t
 
 **Cookies**
 
-Provider's cookie policy is available via https://codepact.com/landed
+Provider's cookie policy is available via https://treescribe.com/signup
 
 ## Definitions
 
@@ -167,7 +167,7 @@ means an organisation using the Services.
 means any information that is categorised as "personal information" under privacy law.
 
 ### Service, Services
-means https://codepact.com, a web-based application for creating legal agreements, and includes the landed pages at https://codepact.com/landed and https://www.producthunt.com/upcoming/codepact
+means https://treescribe.com, a web-based application for creating legal agreements, and includes the landed pages at https://treescribe.com/signup and https://www.producthunt.com/upcoming/treescribe
 
 ### User, Users
 
