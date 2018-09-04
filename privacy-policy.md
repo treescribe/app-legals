@@ -45,7 +45,8 @@ Provider may collect Personal Information about Individuals using the following 
 - from Individuals' communications with Provider;
 - automated analysis of Individuals' use of Provider's services;
 - from job applications made to Provider;
-- from Provider's app; and
+- from Provider's app; 
+- from referrals by partner businesses; and
 - through market research.
 
 ## 4. How information is held and secured
