@@ -10,7 +10,8 @@
 
 ## 1. Supply of services
 
-- Customer agrees and acknowledges that all data on the Service will be deleted without the possibility of restoration during every Sunday (Sydney time).
+- **Customer agrees and acknowledges that all data on the Service will be deleted without the possibility of restoration during every Sunday (Sydney time)**.
+- Customer agrees and acknowledges that the Service is a test version with alpha level of functionality.  Provider promises there _are_ bugs in the Service.
 - Provider will provide the Services described in this document to Customer in accordance with the Agreement.
 - Customer must be 18 years old or over to use of the Service, unless:
   - Customer is at least 13 years old; and
