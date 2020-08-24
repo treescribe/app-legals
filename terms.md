@@ -1,22 +1,21 @@
 # SaaS Agreement
 
-*Treescribe SaaS Agreement - 6 August 2018*
+*Treescribe SaaS Agreement - 24 August 2020*
 
 **Capitalised words and phrases are defined in the section of the document entitled "Definitions".**
 
 **Provider** means Informatio Pty Ltd (ACN 162 135 864) of New South Wales, Australia, contactable on pat@treescribe.com
 
-**Customer** means you or the entity that you are contracting for as authorised representative, contactable on the email used to register with the product at Treescribe.com
+**Customer** means you or the entity that you are contracting for as authorised representative, contactable on the email used to register with the product at www.TryTreescribe.com
 
 ## 1. Supply of services
 
-Provider will provide the Services described in this document to Customer in accordance with the Agreement.
-
-Customer must be 18 years old or over to use of the Service, unless:
-- Customer is at least 13 years old; and
-- uses the Service with the permission and supervision of a guardian.
-
-Customer's parent or legal guardian agrees that they will supervise Customer's use of the Service.
+- Customer agrees and acknowledges that all data on the Service will be deleted without the possibility of restoration during every Sunday (Sydney time).
+- Provider will provide the Services described in this document to Customer in accordance with the Agreement.
+- Customer must be 18 years old or over to use of the Service, unless:
+  - Customer is at least 13 years old; and
+  - uses the Service with the permission and supervision of a guardian.
+- Customer's parent or legal guardian agrees that they will supervise Customer's use of the Service.
 
 ## 2. Agreement duration
 
@@ -30,20 +29,7 @@ Customer agrees to the terms of the Agreement by using the Services.
 
 ## 4. Payment calculation
 
-- Where Customer is not a legal services entity, Customer will pay Provider the amounts notified by Provider.
-- Where Customer is a legal services entity:
-    - Customer must notify Provider that it is using the Services; and
-    - Customer will pay an amount agreed with Provider in writing.
-
-## 5. Payment method
-
-- Provider will invoice Customer for the Services rendered during the previous month.
-- Customer authorises Provider to effect payment of invoices via direct debit or credit card every month.
-
-## 6. Failure to pay
-
-- If Customer fails to pay any amount due under the Agreement on time, including where there is an automated payment failure, Provider may immediately, at its discretion charge Customer interest on the overdue amount at an interest rate equal to the [ATO GIC Rate](https://www.ato.gov.au/Rates/General-interest-charge-%28GIC%29-rates/).
-- If payment is overdue for longer than 14 days, Provider may suspend the provision of the Services to Customer until the overdue payment is received.
+Customer may use the initially available functions of the Service with no charge.
 
 ## 7. Confidentiality
 
@@ -55,11 +41,11 @@ Customer is entirely responsible for the setup and installation of the Services.
 
 ## 9. Support and maintenance
 
-Provider will provide support and maintenance to Customer at Provider's discretion.
+Provider will provide support and maintenance to Customer at Provider's sole and absolute discretion.
 
 ## 10. Planned interruptions
 
-Provider may interrupt the provision of the Services with 5 days notice.
+Provider may interrupt the provision of the Services at any time.
 
 ## 11. Unplanned interruptions
 
@@ -70,10 +56,7 @@ Provider may interrupt the provision of the Services with 5 days notice.
 
 ## 12. Document obsolescence
 
-- Provider may, at its sole discretion, render any template available through the Service obsolete and inoperable at any time.
-- Signed agreements generated from obsolete templates will remain available on the Services.
-- Customer acknowledges that agreements in editing mode, for which the Service's signing process has not begun, may cease to function if the template on which they are based is rendered obsolete or inoperable.
-- Customer leaves documents in editing mode at Customer's own risk
+Provider may, at its sole discretion, render any template available through the Service obsolete and inoperable at any time.
 
 ## 13. Service accounts
 
@@ -125,7 +108,7 @@ Provider will Keep Secret the Data and use it only for the purpose of providing 
 
 # 19A. Deletion of content
 
-- Provider may, after giving reasonable notice to Customer on the Service, delete Data, Posted Content or other content on the Customer's Account.
+- Provider may delete Data, Posted Content or other content on the Customer's Account and the entirety of the Customer's Account every Sunday (Australia time).
 - Customer is responsible for exporting and / or saving any such content before the deletion occurs, and Provider is not responsible for any Cost suffered by Customer as a result of such deletion.
 
 ## 20. Intellectual property protection
@@ -165,7 +148,6 @@ by Indemnifier in connection with the Agreement and Services.
 - any third party claim or legal action for intellectual property infringement connected with conduct,
 
 by Indemnifier in connection with the Agreement and Services.
-
 
 **Risks from the Agreement**, including:
 - negligence;
@@ -591,7 +573,7 @@ means the personal information of individuals as defined by the privacy laws of 
 means any content or information posted by Customer that is available to third parties.
 
 ### Privacy Policy
-means Provider's privacy policy published at https://github.com/treescribe/app-legals.
+means Provider's privacy policy published at https://github.com/trytreescribe/app-legals.
 
 ### Product IP
 means the Intellectual Property in the Service.

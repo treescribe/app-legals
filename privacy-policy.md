@@ -45,7 +45,7 @@ Provider may collect Personal Information about Individuals using the following 
 - from Individuals' communications with Provider;
 - automated analysis of Individuals' use of Provider's services;
 - from job applications made to Provider;
-- from Provider's app; 
+- from Provider's app;
 - from referrals by partner businesses; and
 - through market research.
 
@@ -97,6 +97,7 @@ Provider may disclose Personal Information to:
 Provider is an Australian company. Provider processes perosnal information in Australia and in the United Kingdom, but may disclose personal information to organisations outside of these countries such as:
 
 -  cloud storage providers located in the United States; and
+-  cloud storage providers located in Ireland; and
 -  service providers in Germany.
 
 By registering for the Service, Individuals consent to the disclosure of their Personal Information to international recipients in accordance with this privacy policy.
@@ -140,7 +141,7 @@ Provider's service is available in the European Union, so Provider takes steps t
 
 | Activity | Lawful basis | GDPR reference
 |----------|--------------|-------------
-|Collection, use and disclosure of Users' information as described by this privacy policy |  Necessary in order to provide the Service in accordance with the Service [terms](https://github.com/treescribe/app-legals/blob/master/terms.md) |Art 6(1)(b)
+|Collection, use and disclosure of Users' information as described by this privacy policy |  Necessary in order to provide the Service in accordance with the Service [terms](https://github.com/treescribe/app-legals/blob/trytreescribe/terms.md) |Art 6(1)(b)
 | Mailing list | User consent | Art 6(1)(a)
 | International disclosures / processing | User consent | Art 6(1)(a)
 | Handling Personal Information of non-users whose details are included in agreements created by Users | Necessary in order to protect Users' vital interests in having effective contracts | Art 6(1)(d)
@@ -153,7 +154,7 @@ Provider's service is available in the European Union, so Provider takes steps t
 
 **Cookies**
 
-Provider's cookie policy is available via https://treescribe.com/signup
+Provider's cookie policy is available via www.trytreescribe.com/signup
 
 ## Definitions
 
@@ -168,7 +169,7 @@ means an organisation using the Services.
 means any information that is categorised as "personal information" under privacy law.
 
 ### Service, Services
-means https://treescribe.com, a web-based application for creating legal agreements, and includes the landed pages at https://treescribe.com/signup and https://www.producthunt.com/upcoming/treescribe
+means www.trytreescribe.com, a web-based application for creating legal agreements, and includes the landed pages at www.trytreescribe.com/signup.
 
 ### User, Users
 
