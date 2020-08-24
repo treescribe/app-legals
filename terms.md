@@ -1,6 +1,6 @@
 # SaaS Agreement
 
-*Treescribe SaaS Agreement - 24 August 2020*
+*Treescribe SaaS Agreement - 25 August 2020*
 
 **Capitalised words and phrases are defined in the section of the document entitled "Definitions".**
 
@@ -11,7 +11,7 @@
 ## 1. Supply of services
 
 - **Customer agrees and acknowledges that all data on the Service will be deleted without the possibility of restoration during every Sunday (Sydney time)**.
-- Customer agrees and acknowledges that the Service is a test version with alpha level of functionality.  Provider promises there _are_ bugs in the Service.
+- Customer agrees and acknowledges that the Service is a test version with alpha level of functionality.  Provider promises there _are_ bugs in the Service.  Customer acknowledges and agrees that the existence of bugs and their acceptance of the same is a condition of using the Service.  All rights and obligations in this document will be interpreted by reference to the acknowledgment that the Service is alpha software that contains bugs.
 - Provider will provide the Services described in this document to Customer in accordance with the Agreement.
 - Customer must be 18 years old or over to use of the Service, unless:
   - Customer is at least 13 years old; and
